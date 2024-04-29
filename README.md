@@ -1,24 +1,13 @@
 # lab7_php_ci
 
-Hasil :
 
-![firefox_1dr7QpICyv](https://github.com/steprtm/lab7_php_ci/assets/129705802/4d072d5d-b04b-4c4d-b705-297d4d239a60)
+![ss1](https://github.com/Nadiatulumah2/Lab7/assets/129835302/b91e0634-860e-437c-adc5-dc34ab1543e0)
+
+![ss2](https://github.com/Nadiatulumah2/Lab7/assets/129835302/2d7521df-2256-4221-b58d-fcc13deda395)
 
 
+![ss3](https://github.com/Nadiatulumah2/Lab7/assets/129835302/ab8daa38-6916-41b6-9584-b3426ed9ee8d)
 
-![Code_0pAhAOnUof](https://github.com/steprtm/lab7_php_ci/assets/129705802/b5482762-811c-4a6c-8d48-ddb8cddf67e3)
-
-Hasil :
-
-![firefox_5tkebTbFTr](https://github.com/steprtm/lab7_php_ci/assets/129705802/79c47b2a-0e7f-41ee-bbf2-8abefe1ce740)
-
-Form edit
-
-![Code_OJpCGwhm3O](https://github.com/steprtm/lab7_php_ci/assets/129705802/d086ecd5-e504-4bbe-8647-278ea20c0202)
-
-Hasil :
-
-![firefox_TnvFMCMB6r](https://github.com/steprtm/lab7_php_ci/assets/129705802/91a67f27-0ac6-4537-b581-413c945a7914)
 
 
 Penjelasan :
