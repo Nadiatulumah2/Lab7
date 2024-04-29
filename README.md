@@ -1,10 +1,5 @@
 # lab7_php_ci
 
-Stephen Pratama Kurnia TI.22.A5 312210635
-
-
-![Code_XofUcYBbaq](https://github.com/steprtm/lab7_php_ci/assets/129705802/cbd4122c-3202-4dbc-95fb-8b462aaf1584)
-
 Hasil :
 
 ![firefox_1dr7QpICyv](https://github.com/steprtm/lab7_php_ci/assets/129705802/4d072d5d-b04b-4c4d-b705-297d4d239a60)
